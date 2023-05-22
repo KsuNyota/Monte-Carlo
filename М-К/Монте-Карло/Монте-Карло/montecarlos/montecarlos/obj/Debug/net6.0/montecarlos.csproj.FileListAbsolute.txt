@@ -1,0 +1,30 @@
+X:\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.exe
+X:\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.deps.json
+X:\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.runtimeconfig.json
+X:\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.dll
+X:\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.pdb
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.csproj.AssemblyReference.cache
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.GeneratedMSBuildEditorConfig.editorconfig
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.AssemblyInfoInputs.cache
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.AssemblyInfo.cs
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.csproj.CoreCompileInputs.cache
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.dll
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\refint\montecarlos.dll
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.pdb
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.genruntimeconfig.cache
+X:\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\ref\montecarlos.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.exe
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.deps.json
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.runtimeconfig.json
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\bin\Debug\net6.0\montecarlos.pdb
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.csproj.AssemblyReference.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.AssemblyInfoInputs.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.AssemblyInfo.cs
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.csproj.CoreCompileInputs.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\refint\montecarlos.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.pdb
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\montecarlos.genruntimeconfig.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Монте-Карло\Монте-Карло\montecarlos\montecarlos\obj\Debug\net6.0\ref\montecarlos.dll

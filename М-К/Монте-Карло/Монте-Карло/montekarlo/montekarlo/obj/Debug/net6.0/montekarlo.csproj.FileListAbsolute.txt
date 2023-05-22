@@ -1,0 +1,15 @@
+X:\Монте-Карло\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.exe
+X:\Монте-Карло\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.deps.json
+X:\Монте-Карло\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.runtimeconfig.json
+X:\Монте-Карло\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.dll
+X:\Монте-Карло\montekarlo\montekarlo\bin\Debug\net6.0\montekarlo.pdb
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.csproj.AssemblyReference.cache
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.GeneratedMSBuildEditorConfig.editorconfig
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.AssemblyInfoInputs.cache
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.AssemblyInfo.cs
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.csproj.CoreCompileInputs.cache
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.dll
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\refint\montekarlo.dll
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.pdb
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\montekarlo.genruntimeconfig.cache
+X:\Монте-Карло\montekarlo\montekarlo\obj\Debug\net6.0\ref\montekarlo.dll
